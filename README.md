@@ -28,3 +28,21 @@ Using Python for data analysis, we processed and analyzed the dataset to calcula
 - Segmenting users into meaningful groups based on age and income.
 - Calculating the purchase rates for each segment.
 - Identifying patterns and trends in the data.
+
+Next, we will use Microsoft Power BI to visualize the data and make insights.
+
+## Findings and Insights
+
+The analysis of the 'Social Media Network Ads' dataset led to some compelling insights, particularly regarding the purchase rates across different age groups for both males and females. The visuals below depict the average purchase rate by age group for each gender:
+
+- For females, the highest purchase rate was observed in the 50-64 age group, suggesting that women in this age bracket are the most responsive to social media ads.
+- In contrast, the purchase rate for females in the 18-29 and 30-49 age groups was significantly lower.
+
+![Average Purchase Rate by AgeGroup for Females](/output/agegroup_female.png)
+
+- For males, the trend showed a similar pattern, with the 50-64 age group having the highest purchase rate, indicating a strong responsiveness in this demographic as well.
+
+![Average Purchase Rate by AgeGroup for Males](/output/agegroup_male.png)
+
+These trends provide a clear direction for advertisers; targeting the 50-64 age group could potentially yield higher conversion rates. However, it's also essential to consider the overall marketing strategy, product type, and the specific interests of the target demographic when tailoring ad campaigns.
+
