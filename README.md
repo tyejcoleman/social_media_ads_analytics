@@ -4,6 +4,8 @@
 
 This project undertakes a detailed analysis of the 'Social Media Network Ads' dataset from Kaggle, focusing on the impact of user demographics on social media advertisement effectiveness. The primary objective is to identify demographic factors, such as age and income, that influence the likelihood of purchase conversions and to determine which segments are most responsive to ads. This insight is crucial for businesses looking to optimize their social media marketing strategies and improve their return on advertising spend.
 
+For the purposes of this analysis, we operate under the assumption that the product or service advertised is universally appealing across all age groups and income demographics. This assumption is critical as it allows for a fair assessment and comparison of purchase rates, ensuring that our insights reflect the effectiveness of ad reach and engagement rather than the varying appeal of the product itself.
+
 ## Research Question
 
 The guiding research question for this project is:
