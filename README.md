@@ -1,17 +1,30 @@
-# Social Media Ads Analytics Project
+# Social Media Network Ads Analytics Project
 
 ## Introduction
 
-Welcome to the Social Media Ads Analytics Project. In this project, we delve into the intricate patterns of social media usage across different demographics to unveil insights that can empower business owners, marketers, and advertisers to strategize their campaigns more effectively.
-
-Our goal is to analyze social media data to determine which platforms are most utilized by various age and income groups. By understanding these patterns, businesses can optimize their advertising targeting, ensuring that marketing efforts are not only efficient but also cost-effective.
+This project undertakes a detailed analysis of the 'Social Media Network Ads' dataset from Kaggle, focusing on the impact of user demographics on social media advertisement effectiveness. The primary objective is to identify demographic factors, such as age and income, that influence the likelihood of purchase conversions and to determine which segments are most responsive to ads. This insight is crucial for businesses looking to optimize their social media marketing strategies and improve their return on advertising spend.
 
 ## Research Question
 
-The cornerstone of this project revolves around the pivotal question:
+The guiding research question for this project is:
 
-**"Which social media platforms are most effective for targeted advertising based on specific age and income demographics?"**
+**"How do demographic factors such as age and income influence the likelihood of a purchase following exposure to social media advertisements, and which demographic segments should be targeted to maximize return on advertising spend?"**
 
-With this question in mind, we will explore the data to extract actionable business intelligence that aligns with the advertising goals and product positioning strategies of businesses.
+This question directs the analytical efforts towards uncovering actionable trends and relationships within the data.
 
-## Datasets
+## Data Source
+
+The dataset used in this analysis is available on Kaggle and can be found at the following link:
+
+- [Social Media Network Ads Dataset](https://www.kaggle.com/datasets/asmitameghrajchaskar/social-media-network-ads?rvi=1)
+
+It includes key demographic information about users, including whether they made a purchase after viewing a social media ad.
+
+## Methodology
+
+Using Python for data analysis, we processed and analyzed the dataset to calculate the purchase rates across different demographics, income groups, and age brackets. The analysis involved:
+
+- Cleaning and preprocessing the data.
+- Segmenting users into meaningful groups based on age and income.
+- Calculating the purchase rates for each segment.
+- Identifying patterns and trends in the data.
