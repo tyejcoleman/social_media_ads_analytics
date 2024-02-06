@@ -41,11 +41,13 @@ The analysis of the 'Social Media Network Ads' dataset led to some compelling in
 - In contrast, the purchase rate for females in the 18-29 and 30-49 age groups was significantly lower.
 
 ![Average Purchase Rate by AgeGroup for Females](/output/agegroup_female.png)
+
 *Figure 1: Purchase Rates Among Females by Age Group*
 
 - For males, the trend showed a similar pattern, with the 50-64 age group having the highest purchase rate, indicating a strong responsiveness in this demographic as well.
 
 ![Average Purchase Rate by AgeGroup for Males](/output/agegroup_male.png)
+
 *Figure 2: Purchase Rates Among Males by Age Group*
 
 These trends provide a clear direction for advertisers; targeting the 50-64 age group could potentially yield higher conversion rates. However, it's also essential to consider the overall marketing strategy, product type, and the specific interests of the target demographic when tailoring ad campaigns.
@@ -58,9 +60,11 @@ Furthering our analysis into the 'Social Media Network Ads' dataset, we examined
 These findings underline the significance of income as a factor in advertising effectiveness. The detailed visualizations included below provide a clearer understanding of these trends:
 
 ![Average Purchase Rate by Income Bracket for Females](/output/income_female.png)
+
 *Figure 3: Purchase Rates Among Females by Income Bracket*
 
 ![Average Purchase Rate by Income Bracket for Males](/output/income_male.png)
+
 *Figure 4: Purchase Rates Among Males by Income Bracket*
 
 
@@ -81,9 +85,11 @@ Combining these insights with external data on social media platform usage by di
 Given these findings, businesses should consider a diversified ad strategy that leverages Facebook and YouTube for broad reach campaigns. At the same time, Instagram and Snapchat can be utilized for targeting younger demographics. For high-income professionals, LinkedIn may yield the best return on investment.
 
 ![Social Media Usage by Age](/output/social_media_age.png)
+
 *Figure 5: Social Media Usage by Age*
 
 ![Social Media Usage by Income](/output/social_media_income.png)
+
 *Figure 6: Social Media Usage by Income*
 
 Ultimately, the choice of platform should align with the specific marketing goals, targeted demographics, and product type. Advertisers must continually adapt to the evolving social media landscape to capture the attention of their desired audience effectively.
